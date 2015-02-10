@@ -12,8 +12,8 @@ header {
 	padding: 5px 10px;
 	margin-left: 10px;
 	text-align: flex-start;
-	background-color: green;
-	border-color: green;
+	background-color: #FA5858;
+	border-color: #FA5858;
 }
 
 
@@ -66,8 +66,8 @@ header {
 .doneitem .listitem {
 	width: 80%;
 	float: left;
-	background-color: black;
-	color: white;
+	background-color: #F3F781;
+	color: #6E6E6E;
 	border-top-right-radius: 20px;
 	border-bottom-right-radius: 20px;
 	text-align: center;
@@ -79,8 +79,8 @@ header {
 
 .item .listitem {
 	width: 350px;
-	background-color: black;
-	color: white;
+	background-color: #F3F781;
+	color: #6E6E6E;
 	border-top-right-radius: 20px;
 	border-bottom-right-radius: 20px;
 	text-align: center;
@@ -96,7 +96,7 @@ header {
 
 .oftenitems {
 	text-align: center;
-	background-color: #00BFFF;
+	background-color: #F3E2A9;
 	border-radius: 15px;
 	width: 60%;
 	margin: 0 auto;
@@ -109,8 +109,8 @@ header {
 }
 
 .resetlist button {
-	background-color: red;
-	border-color: red;
+	background-color: #FA5858;
+	border-color: #FA5858;
 }
 
 .centeritem {
