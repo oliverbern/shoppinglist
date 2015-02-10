@@ -1,0 +1,123 @@
+body {
+	width: 70%;
+	margin: 0 auto;
+}
+
+header {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.rename {
+	padding: 5px 10px;
+	margin-left: 10px;
+	text-align: flex-start;
+	background-color: green;
+	border-color: green;
+}
+
+
+.itemlist, .additem {
+	text-align: center;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.itemlist h2 {
+	margin-bottom: 10px;
+}
+
+.additem input {
+	width: 350px;
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	line-height: 2;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.item li, .doneitem li {
+	width: 390px;
+	list-style: none;
+	align-items: flex-start;
+	display: inline-block;
+	margin-bottom: -20px;
+}
+
+
+.item .okitem {
+	float: left;
+	width: 10%;
+	height: 32px;
+	margin-top: 5px;
+	margin-left: 20px;
+	background-color: red;
+}
+.doneitem .doneitem {
+	float: left;
+	width: 40px;
+	height: 32px;
+	margin-top: 5px;
+	margin-left: 20px;
+	background-color: green;
+}
+
+.doneitem .listitem {
+	width: 80%;
+	float: left;
+	background-color: black;
+	color: white;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 2;
+	margin-top: 5px;
+	text-decoration: line-through;
+}
+
+.item .listitem {
+	width: 350px;
+	background-color: black;
+	color: white;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 2;
+	margin-top: 5px;
+}
+
+.oftenused {
+	clear: both;
+	width: 70%;
+}
+
+.oftenitems {
+	text-align: center;
+	background-color: #00BFFF;
+	border-radius: 15px;
+	width: 60%;
+	margin: 0 auto;
+	padding: 10px 25px;
+}
+
+.resetlist {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.resetlist button {
+	background-color: red;
+	border-color: red;
+}
+
+.centeritem {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.centeritem ul {
+	padding-left: 0;
+}
