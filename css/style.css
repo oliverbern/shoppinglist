@@ -28,7 +28,7 @@ header {
 }
 
 .additem input {
-	width: 350px;
+	width: 80%;
 	background-color: black;
 	color: white;
 	border-radius: 20px;
